@@ -19,10 +19,10 @@ const client = new Client({
 */
 
 const client = new Client({
-    user: 'qokaxtgnwhotsn',
-    host: 'ec2-3-212-143-188.compute-1.amazonaws.com',
-    database: 'd2u1pvekjgigqd',
-    password: 'b57dd8a60622b34977c3d2c1abb05e1a2beebd56df2f42e484783f2e2e573cf5',
+    user: 'yzwlxgkwapwkyk',
+    host: 'ec2-34-225-167-77.compute-1.amazonaws.com',
+    database: 'd5fq31ncma5c7p',
+    password: '4e44954839216bd9f399fa17785127c810c62784980efbceb28d8f7170c320f3',
     port: 5432,
 });
 
